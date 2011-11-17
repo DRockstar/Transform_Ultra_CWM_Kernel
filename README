@@ -1,1 +1,3 @@
 This is an extracted stock recovery kernel, with tools to repack, and ramdisk directory
+
+Recovery kernel is located in /dev/block/mmcblk0p13
